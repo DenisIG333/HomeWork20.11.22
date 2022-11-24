@@ -1,0 +1,15 @@
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\bin\Debug\net6.0\Work62.exe
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\bin\Debug\net6.0\Work62.deps.json
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\bin\Debug\net6.0\Work62.runtimeconfig.json
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\bin\Debug\net6.0\Work62.dll
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\bin\Debug\net6.0\Work62.pdb
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\Work62.csproj.AssemblyReference.cache
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\Work62.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\Work62.AssemblyInfoInputs.cache
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\Work62.AssemblyInfo.cs
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\Work62.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\Work62.dll
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\refint\Work62.dll
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\Work62.pdb
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\Work62.genruntimeconfig.cache
+D:\GeekBrains\HomeWorks\HomeWork_20.11.22\Work62\obj\Debug\net6.0\ref\Work62.dll
